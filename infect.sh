@@ -27,19 +27,19 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v2.1      @#%,.@        
-                @#%,.@              @#%,.@          
+ X# \.X        @#%,.@   MARTIN HACKER   @#%,.@        
+                @#%,.@               @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        Martin Hackers
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
 echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                    [Infect them with fun]$rset"
+echo -e "$red                    [Infect them with Martin]$rset"
 echo " "
 echo " "
 }
@@ -59,12 +59,12 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v2.2      @#%,.@        
+ X# \.X        @#%,.@   MARTIN HACKER  @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        Martin Hackers
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
